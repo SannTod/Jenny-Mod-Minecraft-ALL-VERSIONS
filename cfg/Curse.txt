@@ -1,0 +1,2 @@
+/* rev-c8e91a-20260908 Curse.txt */
+curseforge pack name jenny mod

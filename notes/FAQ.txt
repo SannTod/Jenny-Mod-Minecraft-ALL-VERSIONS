@@ -1,0 +1,2 @@
+/* rev-c8e91a-20260908 FAQ.txt */
+1.20 and 1.21.1 both ship. pe / mcpe / android in files/be

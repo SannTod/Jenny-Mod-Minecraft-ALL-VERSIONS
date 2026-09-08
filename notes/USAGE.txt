@@ -1,0 +1,2 @@
+/* rev-c8e91a-20260908 USAGE.txt */
+java: drop jar in mods. bedrock: import addon / apk path

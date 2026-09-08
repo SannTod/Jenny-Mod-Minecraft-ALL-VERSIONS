@@ -1,0 +1,2 @@
+/* rev-c8e91a-20260908 CHANGELOG.txt */
+v2.1.0 1.21.1 jar, mcpe addon, animation clips

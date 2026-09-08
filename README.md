@@ -3,7 +3,7 @@
 **Jenny Mod Minecraft** is a companion NPC pack for Java 1.20.1 / 1.21.1 and Bedrock PE. Animations, Forge loader, CurseForge pack name, MCPE / APK path. Skin pack optional.
 
 
-<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/8f42b504-755f-48a3-a2e6-3d01e64d7ce9" />
+<img width="147" height="147" alt="image" src="https://github.com/user-attachments/assets/8f42b504-755f-48a3-a2e6-3d01e64d7ce9" />
 
 
 

